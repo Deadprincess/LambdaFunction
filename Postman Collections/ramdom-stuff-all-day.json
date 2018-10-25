@@ -47,6 +47,18 @@
           "response": []
         }
       ]
+    },
+    {
+      "_postman_id": "a0153ff1-aa5f-5d33-856b-ba8834969745",
+      "name": "Get Weather",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": "",
+        "description": "random "
+      },
+      "response": []
     }
   ]
 }
