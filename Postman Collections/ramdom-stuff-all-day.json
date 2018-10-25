@@ -1,0 +1,52 @@
+{
+  "info": {
+    "_postman_id": "9bd9d1fe-f1a3-185a-33d2-8c6e084ab763",
+    "name": "ramdom-stuff-all-day",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "_postman_id": "2ec326d2-9897-17a2-08b3-eb06c30b3310",
+      "name": "information",
+      "description": "Folder for information",
+      "item": [
+        {
+          "_postman_id": "81ade395-20ad-740e-78e6-b932c57104e9",
+          "name": "https://yig4w1z7u7.execute-api.us-east-1.amazonaws.com/pro/information",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {},
+            "url": "https://yig4w1z7u7.execute-api.us-east-1.amazonaws.com/pro/information"
+          },
+          "response": []
+        },
+        {
+          "_postman_id": "5b99694d-30d0-80a7-f4c9-cde20ead94b7",
+          "name": "https://yig4w1z7u7.execute-api.us-east-1.amazonaws.com/pro/information/customefun",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "body": {},
+            "url": "https://yig4w1z7u7.execute-api.us-east-1.amazonaws.com/pro/information/customefun"
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}
